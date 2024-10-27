@@ -41,9 +41,10 @@ The project leverages the following approach:
 2. **Install Required Libraries & Access the App**:
 
 Ensure that Python is installed on your machine. Then, install the required libraries using pip:
-   ```bash
+   
     pip install -r requirenments.txt
     streamlit run app.py
+
 
 ![image](https://github.com/user-attachments/assets/fc771467-30b4-45fa-874e-3523978c0204)
 
